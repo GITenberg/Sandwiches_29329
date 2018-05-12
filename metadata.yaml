@@ -1,0 +1,32 @@
+_repo: Sandwiches_29329
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rorer, S. T.
+    aliases:
+    - Rorer, Sarah Tyson Heston
+    - Rorer, Mrs. (Sarah Tyson)
+    - Rorer, S. T. (Sarah Tyson)
+    birthdate: 1849
+    deathdate: 1937
+    gutenberg_agent_id: '2036'
+    url: http://www.gutenberg.org/2009/agents/2036
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29329'
+  lccn: '12009549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sandwiches'
+- !lcc 'TX'
+title: Sandwiches
+url: http://www.gutenberg.org/ebooks/29329
